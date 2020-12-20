@@ -11,4 +11,4 @@ Copyright pending code to communicate multiple software platforms utilizing a da
 
 ![ScreenShot](https://i.ibb.co/4Z94cnm/Screen-Shot-2020-10-17-at-3-13-36-PM.png)
 
-<b>C++</b> is also being included. Hardware can also be used as a "receiver". This is an example of micro-python code that reads the data from the database and can come to a conclusion of whether or not the button in the app is tapped.
+<b>C++</b> is also being included. Hardware can also be used as a "receiver". This is an example of C++ code that reads the data from the database and can come to a conclusion of whether or not the button in the app is tapped.
